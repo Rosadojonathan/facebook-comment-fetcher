@@ -1,0 +1,12 @@
+certifi==2018.8.24
+chardet==3.0.4
+facebook-business==3.1.2
+-e git+https://github.com/mobolic/facebook-sdk.git@e997998838b547b27ca1dbbc3fce11a5638f8bac#egg=facebook_sdk
+facebookads==2.11.4
+idna==2.7
+pydeepl==0.13
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
+vaderSentiment==3.2.1
+

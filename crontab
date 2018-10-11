@@ -1,0 +1,2 @@
+*/15 * * * * python /app/commentFetcher.py
+* * * * */7 /app/db_cleaner.sh
