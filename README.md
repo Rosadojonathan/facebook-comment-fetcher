@@ -1,3 +1,5 @@
+#Ads Sentiment Analyzer
+
 Fetches negative comments on Facebook Ads for some Facebook Ads accounts and pushes them to Slack
 
 Uses VADER sentiment analysis library and deepL to translate sentences from French to English
