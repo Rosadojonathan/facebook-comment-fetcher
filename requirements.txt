@@ -1,4 +1,4 @@
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 facebook-business==3.1.2
 -e git+https://github.com/mobolic/facebook-sdk.git@e997998838b547b27ca1dbbc3fce11a5638f8bac#egg=facebook_sdk
